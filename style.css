@@ -1,0 +1,55 @@
+
+body{
+	background-color: #ffe6f2;
+}
+
+
+.container{
+	padding: 5%;
+	border: solid #333333 2px;
+	margin-left: 6%;
+	margin-top: 5%;
+	text-align: center;
+	background-color: white;
+}
+
+span{
+	background-color: yellow;
+}
+
+.operators{
+	display: inline-flex;
+	text-align: center;
+	justify-content: space-between;
+}
+
+.arithmetic{
+	padding: 30px;
+	border: solid #333333 2px;
+
+}
+
+.comparison{
+	padding: 30px;
+	border: solid #333333 2px;
+}
+
+.logical{
+	padding: 30px;
+	border: solid #333333 2px;
+}
+
+#refresh{
+	display: block;
+	text-align: center;
+}
+
+.footer{
+	width: 100%;
+	background-color: white;
+	border: black 2px solid;
+	color: black;
+	position: fixed;
+	bottom: 0;
+	text-align: center;
+}
